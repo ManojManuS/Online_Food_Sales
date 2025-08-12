@@ -19,5 +19,4 @@
 ![Alt image](https://github.com/ManojManuS/Online_Food_Sales/blob/main/Cart.png?raw=true)
 ### Sign Up/Login
 ![Alt image](https://github.com/ManojManuS/Online_Food_Sales/blob/main/Signin%20or%20Login.png?raw=true)
-### Chatbot
-![Alt image]()
+
